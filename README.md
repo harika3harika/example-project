@@ -6,14 +6,14 @@
 **font style in bold**
 ***font style in bold and italic***
 # unorderd list
-  1. fruits
-  2. vigetables
-    1. carrots
-    2. pototo
-# orderd list
- 1. alphabets
- 2. digits
-  1. whole numbers
-  2. integers
+* fruits
+  * mangoes
+  * apples
+  * banans
+ # orderd list
+ 1. vegtables
+    1. onions
+    2. carrots
+    3. capiscum
   
- 
+  ![tajmahal](
